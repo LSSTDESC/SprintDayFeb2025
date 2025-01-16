@@ -1,5 +1,5 @@
 # SprintDayFeb2025
-Repository to host Sprints at the DESC Feb 2025 Virtual Collaboration Meeting
+Repository to host Sprints at the DESC Feb 2025 Virtual Collaboration Meeting on Feb 24 2025
 
 Check the <a href="https://github.com/LSSTDESC/SprintDayFeb2025/issues">issue page</a> to see the list of sprints.
 
