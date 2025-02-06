@@ -16,3 +16,11 @@ Clicking on these links will direct you to a Sprint template, make sure to fill-
 ## How to sign up for a sprint
 
 When you have decided you want to join a particular sprint, click the `asignees` button on the top left of the issue page for the sprint and assign yourself.
+
+## Tips
+
+Finding a sprint topic: If you are looking for sprint ideas to propose, some possible project themes include DC2 analyses, Science Verification planning, DESC pipeline construction/maintenance, and sprints that improve communication tools within DESC. Sprints are invitations to your DESC collaborators to come and work with you on your project! Not sure what to post? Check out the list of sprint & hack projects at recent sprint events:  [Sprint Week 2024](https://github.com/LSSTDESC/SprintWeek2024), [ETH Zurich 2024](https://github.com/LSSTDESC/SprintDayETHZurich2024), [Sprint Week 2023](https://github.com/LSSTDESC/SprintWeek2023/). 
+
+
+Sprint readiness: If you are proposing a sprint, we encourage you to complete the [sprint readiness](https://lsstdesc.org/sprint-checklist/) checklist that will help you make sure you have a productive time with your sprint.
+
