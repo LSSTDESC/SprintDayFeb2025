@@ -1,5 +1,6 @@
 # Sprint Day @ Virtual Collaboration Meeting Feb 2025
-Repository to host Sprints at the DESC Feb 2025 Virtual Collaboration Meeting on Feb 24 2025
+Repository to host Sprints at the DESC Feb 2025 Virtual Collaboration Meeting on Feb 24 2025.
+All sprints will happen in a dedicated breakout room at the Zoom link mentioned [here](https://indico.slac.stanford.edu/event/9557/sessions/1213/).
 
 Check the <a href="https://github.com/LSSTDESC/SprintDayFeb2025/issues">issue page</a> to see the list of sprints.
 
